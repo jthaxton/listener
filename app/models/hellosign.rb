@@ -1,0 +1,2 @@
+class Hellosign < ApplicationRecord
+end
